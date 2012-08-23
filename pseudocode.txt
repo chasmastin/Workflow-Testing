@@ -1,5 +1,9 @@
 making a Lean workflow with github:
 
+
+So, here I am adding a whole bunch of code, which will be reviewed after the pull request
+
+
 see how we can manage and tie in a kanban board with github
 
 replace Jira with github issues
